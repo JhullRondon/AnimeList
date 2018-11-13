@@ -1,0 +1,17 @@
+body{
+   margin: 0;
+}
+.header{
+   height: 80px;
+   width: 100%;
+   background-image: linear-gradient(rgba(39, 38, 38, 0.267), rgb(245, 245, 245), rgba(49, 49, 49, 0.205));
+}
+.contenedor {
+   display: grid;
+   justify-content: center;
+   gap: 5px;
+   margin-top: 8px;
+}
+.login {
+   display: block;
+}
